@@ -8,10 +8,6 @@ Platform:
 
 Windows 10 (build 3086) and Windows 11 (build 2861). Note that I have only tested on these two systems. However, theoretically, all Windows systems in the Intel series that support the KVA mechanism could be targeted for attack.
 
-## Bounty Program:
-
-Mitigation Bypass and Bounty for Defense
-
 ## Summary:
 
 Kaslr as a mitigation added to Windows to prevent getting Windows kernel base address for user process. Kva as a mitigation added to Windows to prevent Spectre side channels.
